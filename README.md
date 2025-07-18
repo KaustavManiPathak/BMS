@@ -1,5 +1,5 @@
 #  BMS
-A simple Windows-based Bank Management System application implemented in C++.
+A simple Bank Management System with a GUI implemented in C++.
 
 ##  Overview
 This project demonstrates basic banking operations such as Creating Accounts, Performing Transactions, and Checking Balances as handled by a clerk at a bank. 
